@@ -3,7 +3,7 @@
 **The function of the scripts are list below**
 1. print "Hello, World", followed by a new line to the standard output.
 
-2. displays a confused smiley "([Co)'.
+2. displays a confused smiley "\"(Ôo)'.
 
 3. display the content of the /etc/passwd file
 
@@ -23,3 +23,4 @@
 
 11. that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 
+12. and others..
