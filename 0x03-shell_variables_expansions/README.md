@@ -1,6 +1,6 @@
-# Shell, init file`s, variables and expansions.
+# Shell, init file, variables and expansions.
 
-*This is to give brief introduction on the above scripts, you can view, run them to confirm what the scripts are used for.*
+**This is to give brief introduction on the above scripts, you can view, run them to confirm what the scripts are used for.**
 
 1). the first script named 0-alias is used for creating aliasls="rm *".
 
