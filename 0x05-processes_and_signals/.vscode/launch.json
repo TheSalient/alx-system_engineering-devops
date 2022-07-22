@@ -1,0 +1,16 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": true,
+      "externalConsole": false,
+      "cwd": "/Users/lawal_azeez/Desktop/alx-system_engineering-devops/0x05-processes_and_signals",
+      "program": "/Users/lawal_azeez/Desktop/alx-system_engineering-devops/0x05-processes_and_signals/build/Debug/outDebug",
+      "MIMode": "gdb"
+    }
+  ]
+}
