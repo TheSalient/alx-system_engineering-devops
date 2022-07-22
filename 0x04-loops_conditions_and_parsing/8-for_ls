@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 # a Bash script that displays
 
-yourfilenames=`ls`
-for eachfile in $yourfilenames
+for eachfile in *
 do
    echo $eachfile | cut -d'-' -f2
 done
